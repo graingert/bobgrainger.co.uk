@@ -1,0 +1,11 @@
+--2017-09-23 16:15:23--  http://www.electro-tech-online.com/attachments/stun_gunbox-jpg.4808/
+Resolving www.electro-tech-online.com (www.electro-tech-online.com)... 67.227.167.4
+Connecting to www.electro-tech-online.com (www.electro-tech-online.com)|67.227.167.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28031 (27K) [image/jpeg]
+Saving to: ‘index.html’
+
+     0K .......... .......... .......                         100%  243K=0.1s
+
+2017-09-23 16:15:23 (243 KB/s) - ‘index.html’ saved [28031/28031]
+
